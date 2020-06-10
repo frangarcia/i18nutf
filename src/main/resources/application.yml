@@ -1,0 +1,4 @@
+micronaut:
+  application:
+    name: i18nutf8
+    default-charset: utf-8
